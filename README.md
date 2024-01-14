@@ -4,7 +4,7 @@ Hi there 👋, I'm Allen 😁.
 
 - 💼 I'm a Web Developer
 - 📚 I use <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height=20 /></code>
-- 💬 My website is [Allen's Blog](https://helloallenw.github.io/)
+- 💬 My website is [Allen's Blog](https://blog.helloallen.cn/)
 
 <!-- - 🌱 I’m currently learning <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height=20 /></code> <code><img src="https://vitejs.dev/logo.svg" height=20 /></code> -->
 
@@ -27,17 +27,10 @@ Hi there 👋, I'm Allen 😁.
   </a>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HelloAllenW)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<a href="https://helloallenw.github.io/">
-  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/home.svg" />
-</a>
-
-<a href="https://helloallenw.github.io/">
-  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="https://www.heyfe.org/public/blog.svg" />
-</a>
-
-<a href="https://helloallenw.github.io/">
+<a href="https://blog.helloallen.cn/">
   <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/codesandbox.svg" />
 </a>
