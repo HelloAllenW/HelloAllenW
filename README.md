@@ -1,36 +1,29 @@
-Hi there 👋, I'm Allen 😁.
+<div align="center">
 
-<!-- - 🔭 I’m currently working on ... -->
+# Allen Wang
 
-- 💼 I'm a Web Developer
-- 📚 I use <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height=20 /></code>
-- 💬 My website is [Allen's Blog](https://blog.helloallen.cn/)
+**Building thoughtful products for the web.**
 
-<!-- - 🌱 I’m currently learning <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height=20 /></code> <code><img src="https://vitejs.dev/logo.svg" height=20 /></code> -->
+[![Blog](https://img.shields.io/badge/Blog-blog.helloallen.cn-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://blog.helloallen.cn/)
+[![X](https://img.shields.io/badge/X-@Allenwa75643986-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/Allenwa75643986)
+[![GitHub followers](https://img.shields.io/github/followers/HelloAllenW?label=Follow&style=flat-square&color=111827)](https://github.com/HelloAllenW)
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HelloAllenW&count_private=true&show_icons=true" alt="HelloAllenW's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloAllenW&show_icons=true&layout=compact" /> -->
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HelloAllenW&count_private=true&show_icons=true&theme=radical" alt="HelloAllenW's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloAllenW&show_icons=true&theme=radical&layout=compact" /> -->
-  </a>
 </div>
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HelloAllenW&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+## About
 
-<a href="https://blog.helloallen.cn/">
-  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/codesandbox.svg" />
-</a>
+I’m Allen, a web developer focused on turning ideas into polished, maintainable digital experiences. I care about clear interfaces, durable engineering, and the small details that make a product feel considered.
+
+- **Focus** — Front-end engineering, modern web architecture, and AI-assisted product building.
+- **Writing** — Notes on technology, building, and the web at [blog.helloallen.cn](https://blog.helloallen.cn/).
+- **Elsewhere** — Find me on [X](https://x.com/Allenwa75643986).
+
+## Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,webpack,git&theme=light" alt="TypeScript, JavaScript, React, Node.js, Webpack, Git" />
+</p>
+
+<div align="center">
+  <sub>Designed and maintained by Allen.</sub>
+</div>
